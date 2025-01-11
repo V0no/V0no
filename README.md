@@ -29,4 +29,4 @@ Me formei como Técnico em Telecomunicações pela ETE FMC e, atualmente, estou 
 
 Atualmente, tenho a sorte de ser orientado pelo veterano Leo, que tem sido essencial para minha jornada inicial no Inteli. É com ele que consigo tirar minhas dúvidas e receber dicas valiosas para começar com o pé direito e sempre está disposto a ajudar. Além de ser extremamente competente, é uma pessoa muito gente boa e que vale a pena conhecer!
 
-Para quem quiser conhecer melhor, este é o GitHub dele [Leoogata] (https://github.com/Leoogata)
+Para quem quiser conhecer melhor, este é o GitHub dele [Leoogata](https://github.com/Leoogata)
